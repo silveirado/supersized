@@ -1,0 +1,33 @@
+{
+  "name": "supersized",
+  "version": "3.2.7",
+  "description": "Full screen background slideshow plugin for jQuery http://www.buildinternet.com/project/supersized/",
+  "main": "dist/supersized.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silveirado/supersized.git"
+  },
+  "keywords": [
+    "background",
+    "slideshow",
+    "plugin",
+    "jQuery"
+  ],
+  "author": "Sam Dunn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/silveirado/supersized/issues"
+  },
+  "homepage": "https://github.com/silveirado/supersized#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^2.0.0",
+    "pump": "^1.0.1"
+  }
+}

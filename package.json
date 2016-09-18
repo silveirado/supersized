@@ -2,7 +2,7 @@
   "name": "supersized",
   "version": "3.2.7",
   "description": "Full screen background slideshow plugin for jQuery http://www.buildinternet.com/project/supersized/",
-  "main": "dist/supersized.js",
+  "main": "dist/supersized.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
